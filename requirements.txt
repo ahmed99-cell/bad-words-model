@@ -1,0 +1,5 @@
+fastapi==0.95.2
+pydantic==1.10.6
+python-dotenv==1.0.0
+google-generativeai==0.1.0  # Assurez-vous que cette version est correcte
+uvicorn==0.22.0
